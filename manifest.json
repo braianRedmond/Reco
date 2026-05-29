@@ -1,6 +1,6 @@
 {
-  "name": "Reno - Recordatorios",
-  "short_name": "Reno",
+  "name": "RIOS - Recordatorios",
+  "short_name": "RIOS",
   "description": "App de recordatorios con notificaciones y sincronizacion",
   "start_url": "./",
   "display": "standalone",
